@@ -1,1 +1,1 @@
-# Blended-JavaScript-
+# goit-js-hw-01
